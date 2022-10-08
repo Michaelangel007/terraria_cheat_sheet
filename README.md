@@ -124,7 +124,7 @@ Copyleft {C} 2022
 |   17 | ![](pics/ores/Copper_Ore.png) <meta     /> Copper / ![](pics/ores/Tin_Ore.png) Tin   |
 |   16 | ![](pics/ores/Iron_Ore.png) <meta       /> Iron   / ![](pics/ores/Lead_Ore.png) Lead |
 |   15 | ![](pics/ores/Silver_Ore.png) <meta     /> Silver      |
-|   14 | ![](pics/ores/Tungsten_Ore) <meta       /> Tungsten    |
+|   14 | ![](pics/ores/Tungsten_Ore.png) <meta   /> Tungsten    |
 |   13 | ![](pics/ores/Gold_Ore.png) <meta       /> Gold        |
 |   12 | ![](pics/ores/Platinum_Ore.png) <meta   /> Platinum    |
 |   11 | ![](pics/ores/Meteorite_Ore.png) <meta  /> Meteorite   |
