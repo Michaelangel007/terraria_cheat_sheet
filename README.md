@@ -32,7 +32,7 @@ Copyleft {C} 2022
 |![](pics/Reinforced_Fishing_Pole.png)|Fishing Pole, Reinforced     |Anvil      |       <meta           />| 8 Iron![](pics/Iron_Bar.png)|                                                        |
 |![](pics/Fleshcatcher.png           )|Fishing Pole, Fleshcatcher   |Anvil      |       <meta           />|       <meta               />| 8 Crimtane Bars ![](pics/Crimtane_Bar.png)             |
 |![](pics/Furnace.png                )|Furnace                      |Work Bench | 4 Wood![](pics/Wood.png)|       <meta               />| 20 Stone Block ![](pics/Stone_Block.png), 3 Torches ![](pics/Torch.png) |
-|![](pics/Diamond_Gemcorn.png        )|Gemcorn                      |By Hand    |       <meta           />|       <meta               />| 1 Acorn ![](pics/Acorn.png), 1 Gem  (underground/Cavern)                |
+|![](pics/Diamond_Gemcorn.png        )|Gemcorn                      |By Hand    |       <meta           />|       <meta               />| 1 Acorn ![](pics/Acorn.png), 1 Gem ![](pics/Diamond.png) (Underground/Cavern) |
 |![](pics/Glass.png                  )|Glass                        |Furance    |       <meta           />|       <meta               />| 2 Sand Block ![](pics/Sand_Block.png)                                   |
 |![](pics/Glass_Kiln.png             )|Glass Kiln                   |Anvil      |       <meta           />|18 Iron![](pics/Iron_Bar.png)| |
 |![](pics/Golden_Fishing_Rod.png     )|Golden Fishing Rod           |n/a        |       <meta           />|       <meta               />|Angler 30 Fishing Quests reward|
