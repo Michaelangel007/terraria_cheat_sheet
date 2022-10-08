@@ -117,5 +117,26 @@ Copyleft {C} 2022
 | Stopwatch        | Traveling Merchant  | 5g                                                 |
 | Tally Counter    | mob drop            | Angry Bones, Cursed Skull, Dark Caster             |
 
+# Ores
 
-Version 1, Last updated: Sun, Jul 24, 2022.
+| Tier | Ore          |
+|-----:|:-------------|
+|   17 | ![](pics/ores/Copper_Ore.png) <meta     /> Copper / ![](pics/ores/Tin_Ore.png) Tin   |
+|   16 | ![](pics/ores/Iron_Ore.png) <meta       /> Iron   / ![](pics/ores/Lead_Ore.png) Lead |
+|   15 | ![](pics/ores/Silver_Ore.png) <meta     /> Silver      |
+|   14 | ![](pics/ores/Tungsten_Ore) <meta       /> Tungsten    |
+|   13 | ![](pics/ores/Gold_Ore.png) <meta       /> Gold        |
+|   12 | ![](pics/ores/Platinum_Ore.png) <meta   /> Platinum    |
+|   11 | ![](pics/ores/Meteorite_Ore.png) <meta  /> Meteorite   |
+|   10 | ![](pics/ores/Demonite_Ore.png) <meta   /> Demonite / ![](pics/ores/Crimtane_Ore.png) Crimtane |
+|    9 | ![](pics/ores/Hellstone_Ore.png) <meta  /> Hellstone   |
+|    8 | ![](pics/ores/Cobalt_Ore.png) <meta     /> Cobalt      |
+|    7 | ![](pics/ores/Palladium_Ore.png) <meta  /> Palladium   |
+|    6 | ![](pics/ores/Mythril_Ore.png) <meta    /> Mythril     |
+|    5 | ![](pics/ores/Orichalcum_Ore.png) <meta /> Orichalcum  |
+|    4 | ![](pics/ores/Adamantite_Ore.png) <meta /> Adamantite  |
+|    3 | ![](pics/ores/Titanium_Ore.png) <meta   /> Titanium    |
+|    2 | ![](pics/ores/Chlorophyte_Ore.png) <meta/> Chlorophyte |
+|    1 | ![](pics/ores/Luminite_Ore.png) <meta   /> Luminite    |
+
+Version 1.1, Last updated: Sat, oct 8, 2022.
